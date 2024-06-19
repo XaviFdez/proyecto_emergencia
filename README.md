@@ -395,7 +395,7 @@ Se monta la tarjeta SD para permitir la lectura y escritura de archivos.
 
 #### Imagen del montaje:
 
-
+<img src="imagenproyecto.jpeg" style="width: 30%; margin-right: 10px;">
 
 ## Conclusión
 El código configura un dispositivo Arduino para actuar como un grabador y reproductor de audio controlado vía WiFi. Utiliza el protocolo I2S para la comunicación con el micrófono y el altavoz, la tarjeta SD para el almacenamiento de los archivos de audio, y un servidor web para la interfaz de usuario. La grabación y reproducción de audio se gestionan mediante archivos WAV almacenados en la tarjeta SD.
